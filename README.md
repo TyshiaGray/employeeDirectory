@@ -11,6 +11,8 @@ This application contains non-sensitive data about employees that allows manager
 
 [GitHubRepo]https://github.com/TyshiaGray/employeeDirectory
 
+[Heroku]
+
 
 # Application Visual
 
