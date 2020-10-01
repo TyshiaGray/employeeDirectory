@@ -14,5 +14,6 @@ This application contains non-sensitive data about employees that allows manager
 [Heroku]
 
 
-# Application Visual
+# Application Preview
 
+![Screenshot to deployed app](./)
