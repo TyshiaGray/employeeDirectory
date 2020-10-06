@@ -7,13 +7,12 @@ This application contains non-sensitive data about employees that allows manager
 
 
 # Links
-[GitHubDeployment]https://tyshiagray.github.io/employeeDirectory/
+[Deployed Site](https://boiling-shelf-80877.herokuapp.com/)
 
-[GitHubRepo]https://github.com/TyshiaGray/employeeDirectory
+[GitHubRepo](https://github.com/TyshiaGray/employeeDirectory)
 
-[Heroku]
 
 
 # Application Preview
 
-![Screenshot to deployed app](./)
+![Screenshot to deployed app](./screenshot.png)
